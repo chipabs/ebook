@@ -35,3 +35,4 @@
 ## 其他大牛整理的
 - [github Edragon FPGA_DOCS](https://github.com/Edragon/FPGA_DOCS)
 - [github 交大软件](https://github.com/totoroyyw/SJTU-Courses)
+- [学习电子信息工程相见恨晚的网站](https://www.zhihu.com/question/39255028)
