@@ -36,3 +36,9 @@
 - [github Edragon FPGA_DOCS](https://github.com/Edragon/FPGA_DOCS)
 - [github 交大软件](https://github.com/totoroyyw/SJTU-Courses)
 - [学习电子信息工程相见恨晚的网站](https://www.zhihu.com/question/39255028)
+
+
+## 优秀UP主
+- [布丁哥讲电路](https://space.bilibili.com/491920203)
+- [3R教室-pincman](https://space.bilibili.com/53679018)
+- [我是星宇大叔](https://space.bilibili.com/478141253)
