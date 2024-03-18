@@ -4,18 +4,18 @@
 | :-------- | :------- | :------------| :--------|
 | 微积分  | $250    | *7*        | -- |
 | 线性代数 | $80     | *7*        | -- |
-| 概率论    | $420    | *7*        | -- |
+| 概率论    | $420    | [电子科技大学： 概率论与数理统计](https://www.bilibili.com/video/BV1Sv41157Js/?share_source=copy_web&vd_source=9dc41a589a7b9cb5def4329946adec15)        | -- |
 | 复变函数    | $420    | *7*        | -- |
 | **专业基础课程**         | **--**     | **--**  | -- |
 | 电路原理/电路分析 | 1.99      | [ 电子科技大学: 电路分析基础 ](https://www.bilibili.com/video/BV19E411C7bi/?share_source=copy_web&vd_source=9dc41a589a7b9cb5def4329946adec15)        | -- |
-| 模拟电路原理     | **1.89**  | 5234       | -- |
-| 数字电路与逻辑设计      | **1.89**  | 5234       | -- |
+| 模拟电路原理     | **1.89**  | [电子科技大学: 模拟电路基础](https://www.bilibili.com/video/BV1BE411e7pQ/?share_source=copy_web&vd_source=9dc41a589a7b9cb5def4329946adec15)       | -- |
+| 数字电路与逻辑设计      | **1.89**  | [电子科技大学: 数字逻辑设计与应用](https://www.bilibili.com/video/BV1hE411a7zE/?share_source=copy_web&vd_source=9dc41a589a7b9cb5def4329946adec15)       | -- |
 | **专业核心课程**        | **--**     | **--**  | -- |
 | 电磁场和电磁波 |  1.99 |        739 | -- |
 | 信号与系统      |  1.89 |          6 | -- |
 | 数字信号处理      |  1.89 |          6 | -- |
 | 随机信号处理      |  1.89 |          6 | -- |
-| 通信原理      |  1.89 |          6 | -- |
+| 通信原理      |  1.89 |          [电子科技大学： 通信原理](https://www.bilibili.com/video/BV1rE411r7Yq/?share_source=copy_web&vd_source=9dc41a589a7b9cb5def4329946adec15) | -- |
 | 射频电子线路      |  1.89 |          6 | -- |
 | 自动控制原理      |  1.89 |          6 | -- |
 | 微波技术      |  1.89 |          6 | -- |
